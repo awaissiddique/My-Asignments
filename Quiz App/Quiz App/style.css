@@ -1,0 +1,81 @@
+body{
+    background-color: #774936;
+}
+.btn{
+    width: 100%;
+    background-color: #9d6b53;
+    border: none;
+    color: #ffffff;
+    margin: 5px;
+    padding: 10px;
+}
+.nextBtn{
+    width: 200px;
+    background-color: #9d6b53;
+    border: none;
+    color: #ffffff;
+    margin: 5px;
+    padding: 10px;
+}
+.link {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+#exampleInputEmail1{
+    background: #EDC4B3;
+}
+#exampleInputPassword1{
+    background: #EDC4B3;
+}
+#emailHelp{
+    color: black;
+}
+.mainDiv{
+    margin: auto;
+}
+.formDiv{
+    width: 500px;
+    margin: 120px auto;
+    background-color: #c38e70;
+    height: 500px;
+}
+.fieldDiv{
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    height: 400px;
+    padding: 50px;
+    padding-top: 120px; 
+    padding-left: 45px; 
+}
+.field{
+    width: 300px;
+    margin: 10px;
+    border: none;
+    border-radius: 1px;
+}
+.field::placeholder{
+    padding-left: 10px;
+}
+.label{
+    padding-left: 12px;
+    font-weight: bold;
+    color: #774936;
+}
+.formBtn{
+    width: 100px;
+    background-color: #9d6b53;
+    border: none;
+    color: #ffffff;
+    margin: 5px;
+    padding: 10px;
+}
+.btnDiv{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.contentDiv{
+    margin: auto !important;
+}
